@@ -1,0 +1,39 @@
+html {
+  background-color: #dcd4cd;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.link-card {
+    background-color: #cabdb2 ;
+    border: #9a816d 3px solid;
+    border-radius: 3px;
+}
+
+.para {
+  padding: 0 1rem;
+  font-size: 1.125rem;
+}
+
+.link-card h2 {
+  padding: 0 1rem;
+  font-size: 1.5rem;
+}
+
+li {
+  font-size: .875rem;
+  text-decoration: none;
+}
+
+.btn {
+  text-align: center;
+  border-radius: 8px;
+  background-color: #785439;
+  color: #fff;
+  padding: .4em .75em .5em;
+  display: inline-block;
+  font-size: 1rem;
+}
