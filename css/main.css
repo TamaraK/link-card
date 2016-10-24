@@ -60,12 +60,12 @@ a {
   color: #512200;
 }
 
-dl.first {
+ol.first {
   float: left;
   border-bottom: #9a816d 2px solid;
 }
 
-dl.second {
+ol.second {
   float: right;
   border-bottom: #9a816d 2px solid;
 }
