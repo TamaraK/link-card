@@ -63,9 +63,11 @@ a {
 ol.first {
   float: left;
   border-bottom: #9a816d 2px solid;
+  list-style-type: none;
 }
 
 ol.second {
   float: right;
   border-bottom: #9a816d 2px solid;
+  list-style-type: none;
 }
