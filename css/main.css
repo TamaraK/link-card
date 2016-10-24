@@ -19,6 +19,7 @@ html {
   font-family: Georgia;
   line-height: 1.5rem;
   margin: 1rem 0 0;
+  border-bottom: #9a816d 2px solid;
 }
 
 .link-card h2 {
@@ -61,8 +62,10 @@ a {
 
 dl.first {
   float: left;
+  border-bottom: #9a816d 2px solid;
 }
 
 dl.second {
   float: right;
+  border-bottom: #9a816d 2px solid;
 }
