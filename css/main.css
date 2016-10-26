@@ -48,6 +48,9 @@ dl {
   display: inline-block;
   font-size: 1rem;
   font-family: Dosis, sans-serif;
+}
+
+.btn-wrapper {
   text-align: center;
 }
 
